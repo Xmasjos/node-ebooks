@@ -1,0 +1,15 @@
+{
+  "name": "node-ebooks",
+  "version": "0.0.1",
+  "private": false,
+  "repository": "https://github.com/Xmasjos/node-ebooks",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "jscs": "^3.0.4"
+  }
+}
